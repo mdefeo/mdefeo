@@ -17,29 +17,26 @@ My strengths lie in connecting technology with business needs, solving complex p
 
 | Category | Technologies |
 |---|---|
-| **Languages & Runtime** | JavaScript, TypeScript, PHP, Node.js, HTML5, CSS3 |
+| **Languages & Runtime** | JavaScript, TypeScript, PHP, Node.js |
 | **Frameworks & Libraries** | React, Next.js, Express, NestJS, Tailwind CSS, Bootstrap |
-| **Databases & Caching** | PostgreSQL, MySQL, Microsoft SQL Server, SQLite, Redis |
+| **Databases & Caching** | PostgreSQL, MySQL, MariaDB, SQL, SQLite, Redis |
 | **Database Platforms** | Azure SQL, Supabase, Neon |
-| **Cloud & Infrastructure** | AWS, Azure, Vercel, Docker, Debian, Apache, NGINX |
-| **APIs & Integrations** | REST APIs, OAuth 2.0, SendGrid, Twilio |
-| **Authentication & Security** | JWT, OAuth 2.0, RBAC |
+| **Cloud & Infrastructure** | Azure, Vercel, Docker, AWS |
 | **CMS & Content Platforms** | WordPress, Payload CMS, Ghost |
-| **Development & Testing** | Git, GitHub Actions, Jest, Playwright, ESLint, pnpm |
-| **Observability & Analytics** | Sentry, Google Analytics, Google Tag Manager, Nagios |
+| **Development & Testing** | Azure DevOps, Git, GitHub Actions, Jest, Playwright, ESLint, pnpm |
+| **Observability & Analytics** | Sentry, Google Analytics & Tag Manager, Nagios |
 | **Design & Creative** | Figma, Adobe Creative Cloud |
-| **AI Development & Agents** | Claude Code, GitHub Copilot, OpenAI Codex |
+| **AI Development & Agents** | Claude Code, Copilot, Codex |
+| **Messaging & Event Streaming** | Service Bus, Message Queues, Pub/Sub |
 
 ## Expertise
 
-
 | Area | Expertise |
 |---|---|
+| **Agile & Software Development** | Agile Methodologies, Scrum, Sprint Planning, Iterative Development |
 | **API Architecture** | RESTful Design, Integration, Versioning |
 | **Application Architecture** | Full-Stack Development, Component-Based Architecture, Database Design, System Integration |
-| **Authentication & Authorization** | OAuth 2.0, JWT, Role-Based Access Control (RBAC), Session Management |
-| **Security Engineering** | Secure Coding, OWASP Principles, Secrets Management, Data Protection, Least-Privilege Access |
 | **CI/CD & DevOps** | Continuous Integration, Continuous Delivery, Automated Testing, Deployment Pipelines |
 | **Compliance & Governance** | SOC 2, HIPAA, Data Privacy, Audit Logging, Access Controls |
 | **Quality Engineering** | Unit Testing, Integration Testing, End-to-End Testing, Code Reviews |
-| **AI-Assisted Engineering** | Agentic Development Workflows, AI-Assisted Coding, Code Generation, Automated Refactoring |
+| **AI-Assisted Engineering** | Agentic Development Workflows, AI-Assisted Coding, Automated Refactoring |
