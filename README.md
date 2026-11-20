@@ -18,7 +18,7 @@ My strengths lie in connecting technology with business needs, solving complex p
 | Category | Technologies |
 |---|---|
 | **Languages & Runtime** | JavaScript, TypeScript, PHP, Node.js |
-| **Frameworks & Libraries** | React, Next.js, Express, NestJS, Tailwind CSS, Bootstrap |
+| **Frameworks & Libraries** | React, Next.js, Express, NestJS, Tailwind CSS, Feathers.js, Bootstrap |
 | **Databases & Caching** | PostgreSQL, MySQL, MariaDB, SQL, SQLite, Redis |
 | **Database Platforms** | Azure SQL, Supabase, Neon |
 | **Cloud & Infrastructure** | Azure, Vercel, Docker, AWS |
